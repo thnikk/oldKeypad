@@ -1,5 +1,6 @@
 #include <Bounce2.h> // bounce library for keboard functionality
 #include <EEPROM.h> // EEPROM library for saving
+#include <Keyboard.h>
 
 // button mapping
 #define key1p 122
